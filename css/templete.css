@@ -6781,7 +6781,7 @@ HOME 5 Box Header
 .services-box-area:after {
     content: "";
     background-color: #fff;
-    height: 40%;
+    height: 0%;
     bottom: 0;
     width: 100%;
     left: 0;
